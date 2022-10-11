@@ -1,3 +1,10 @@
+---
+layout: post
+title: "credit fraud" 
+autor: "ag-su"
+tags: "kaggle"
+---
+
 
 <h1 align="center"> Credit Fraud Detector </h1>
 
