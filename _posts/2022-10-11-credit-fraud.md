@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "credit fraud" 
-autor: "ag-su"
+author: "ag-su"
 tags: kaggle
 ---
 
