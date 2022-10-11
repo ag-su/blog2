@@ -2,6 +2,7 @@
 layout: post
 title: "credit fraud" 
 autor: "ag-su"
+tags: kaggle
 ---
 
 
